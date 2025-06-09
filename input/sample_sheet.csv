@@ -1,4 +1,4 @@
-#Placeholder - file with the following structure:
 sample_id,fastq_1,fastq_2,strandedness
 20250310_Stem_H1_AAVS1_5,gs://path/to/R1.fastq.gz,gs://path/to/R2.fastq.gz,unstranded
 20250310_Stem_H1_WT_1,gs://path/to/R1.fastq.gz,gs://path/to/R2.fastq.gz,unstranded
+...
