@@ -1,0 +1,3 @@
+sample,fastq_1,fastq_2,strandedness
+Stem_H1_AAVS1_5,gs://..._R1.fastq.gz,gs://..._R2.fastq.gz,unstranded
+...
