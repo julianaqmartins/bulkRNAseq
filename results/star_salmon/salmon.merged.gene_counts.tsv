@@ -1,0 +1,14 @@
+# Tab-separated file with gene-level raw counts for all samples, as quantified by Salmon in the nf-core/rnaseq pipeline. Each row is a gene, each column is a sample.
+
+Format:
+gene_id  gene_name  Sample_1  Sample_2  …
+ENSG00000000003.16  TSPAN6  2387  578  …
+ENSG00000000005.6  TNMD  55  6  …
+…  …  …  …  …
+
+gene_id: Ensembl gene ID with version
+gene_name: HGNC gene symbol
+Remaining columns: Raw integer counts for each sample
+
+📁 Not uploaded due to size.
+🧬 Used as input for DESeq2 differential expression analysis.
