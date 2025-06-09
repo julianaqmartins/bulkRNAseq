@@ -1,0 +1,5 @@
+# Truncated placeholder file — this is just an example of the format.
+# The actual file contains all genes and all samples.
+gene_id	gene_name	Sample_1	Sample_2	Sample_3
+ENSG00000000003.16	TSPAN6	52.38	38.55	45.98
+ENSG00000000005.6	TNMD	5.11	1.28	4.66
