@@ -1,0 +1,7 @@
+## description: GENCODE v46 annotation GTF file (GRCh38)
+## source: https://www.gencodegenes.org/human/
+## note: This is a truncated example. Do not use for analysis.
+
+chr1    HAVANA  gene    11869   14409   .   +   .   gene_id "ENSG00000223972.6"; gene_type "transcribed_unprocessed_pseudogene"; gene_name "DDX11L1";
+chr1    HAVANA  transcript  11869   14409   .   +   .   gene_id "ENSG00000223972.6"; transcript_id "ENST00000456328.2"; gene_name "DDX11L1"; transcript_name "DDX11L1-202";
+chr1    HAVANA  exon    11869   12227   .   +   .   gene_id "ENSG00000223972.6"; transcript_id "ENST00000456328.2"; exon_number "1"; gene_name "DDX11L1"; transcript_name "DDX11L1-202";
