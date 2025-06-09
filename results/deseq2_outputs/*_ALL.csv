@@ -1,0 +1,6 @@
+# Truncated placeholder — full file has thousands of genes.
+# Columns include DESeq2 statistics for each gene.
+
+gene,baseMean,log2FoldChange,lfcSE,stat,pvalue,padj
+TSPAN6,1000.4,0.56,0.12,4.8,1.5e-06,0.0002
+TNMD,200.3,-1.2,0.23,-5.1,3.3e-07,0.0001
